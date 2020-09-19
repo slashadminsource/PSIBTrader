@@ -7,6 +7,8 @@ Traing stocks is very risky, im not a trader or an accountant, im an IT guy who 
 This code most definately contains bugs and errors and terrible code which will never be fixed or updated by me.
 Use at your own risk!
 
+For more information head over to a short blog I write about the setup here: https://www.slashadmin.co.uk/powershell-trading-bot-for-interactive-brokers/
+
 
 I worked on this project because I wanted to see if I could develop a swing trading PowerShell Bot. 
 
