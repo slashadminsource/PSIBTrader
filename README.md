@@ -8,7 +8,7 @@ This code most definately contains bugs and errors and terrible code which will 
 Use at your own risk!
 
 
-I worked on this project because I wanted to see if I could develop a swing trading PowerShell Bot.
+I worked on this project because I wanted to see if I could develop a swing trading PowerShell Bot. 
 
 
 This Bot has three components to it:
