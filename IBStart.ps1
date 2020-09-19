@@ -76,9 +76,9 @@ function Start-DataCollectionChecks()
 
 function Send-Mail()
 {
-    $notificationToEmailAddress = "ian.waters@southernit.com"
-    $notificationFromEmailAddress = "psbot@bot.net"
-    $smtpServer = "relay-cluster-eu01.hornetsecurity.com"
+    $notificationToEmailAddress = "<enter your email address here>"
+    $notificationFromEmailAddress = "<enter from address here>"
+    $smtpServer = "<enter smtp server here>"
     $smtpPort = "25"
     $subject = "CRITICAL ALERT"
     $body = "Critical alert triggered on bot"
