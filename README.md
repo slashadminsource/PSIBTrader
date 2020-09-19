@@ -1,6 +1,15 @@
 # PSIBTrader
 
+This bot is for educational purposes only!
+This bot will loose all of your money if you try to get it working.
+I do not support this bot, its provided to the PowerShell coding community for educational purposes.
+Traing stocks is very risky, im not a trader or an accountant, im an IT guy who likes to mess around with coding projects from time to time.
+This code most definately contains bugs and errors and terrible code which will never be fixed or updated by me.
+Use at your own risk!
+
+
 I worked on this project because I wanted to see if I could develop a swing trading PowerShell Bot.
+
 
 This Bot has three components to it:
 
@@ -23,4 +32,8 @@ SETUP.
 4: Right click IBDataCollector.ps1 and select 'Run With PowerShell'. From the menu press C to create a database then exit the script.
 
 5: Right click IBStart.ps1 and it will startup the scripts.
+
+By default the script will add Tesla stock in learning mode to the database. After a few days of running the Bot you can change from 'LEARNING' mode into 'TRADING' mode by editing the STOCKS table within th database.
+
+When you edit the STOCKS table close all open script windows and run IBStart.ps1 again to reinitiate the Bot.
 
